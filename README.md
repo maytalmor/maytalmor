@@ -3,11 +3,11 @@
 <img align="right" alt="Coding" width="400" src="https://thumbs.gfycat.com/GlisteningAggravatingJunebug-size_restricted.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maytalmor&label=Profile%20views&color=0e75b6&style=flat" alt="maytalmor" /> </p>
 
-- 🔭 I’m currently working on **KPMG**
+-  I’m currently working on **KPMG**
 
-- 🌱 I’m currently learning **B.Sc. computer sience**
+- Bachelor of Science in Computer Science
 
-- 📫 How to reach me **maytal1811@gmail.com**
+-  How to reach me **maytal1811@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
