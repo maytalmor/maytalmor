@@ -5,11 +5,10 @@
 
 -  I’m currently working on **KPMG**
 
-- Bachelor of Science in Computer Science
+-  B.Sc. in Computer Science, Open University of Israel
 
 -  How to reach me **maytal1811@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
